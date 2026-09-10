@@ -157,16 +157,6 @@ cyberintel-copilot/
 
 Potential Version 5 ideas: CVSS-aware remediation queues, SBOM import, MITRE ATT&CK enrichment with verified source data, feedback-driven RAG evaluation, and a production deployment using managed compute plus secure storage.
 
-## GitHub publishing checklist
-
-1. Never add `.venv/`, `data/raw/`, `data/processed/`, `.env`, screenshots containing sensitive data, or real threat reports.
-2. Create a public repository if you want recruiters to view the project; use a private repository for course or employer work.
-3. Add two safe screenshots: the CVE briefing tab and the asset-prioritizer tab, using public/demo data only.
-4. Include this README, [architecture documentation](docs/architecture.md), and [deployment guide](DEPLOYMENT.md).
-5. Run the test command before every push.
-
-The exact browser and PowerShell steps are in [docs/github-publish.md](docs/github-publish.md).
-
 ## Data sources
 
 - [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
