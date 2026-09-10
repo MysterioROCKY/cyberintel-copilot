@@ -1,0 +1,1 @@
+"""CyberIntel Copilot application package."""
