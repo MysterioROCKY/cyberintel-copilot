@@ -165,6 +165,8 @@ Potential Version 5 ideas: CVSS-aware remediation queues, SBOM import, MITRE ATT
 4. Include this README, [architecture documentation](docs/architecture.md), and [deployment guide](DEPLOYMENT.md).
 5. Run the test command before every push.
 
+The exact browser and PowerShell steps are in [docs/github-publish.md](docs/github-publish.md).
+
 ## Data sources
 
 - [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
