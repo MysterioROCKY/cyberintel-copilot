@@ -112,9 +112,7 @@ The tests do not call the LLM or download sources. They cover CVE parsing, NVD/C
 
 ## Share a temporary demo—no Docker or paid hosting
 
-The application is deliberately local-first. A hosted free tier such as Render cannot safely run the local model and persistent RAG database with its small memory and ephemeral filesystem.
-
-For a **temporary live demo**, keep the local app running and open a second PowerShell window:
+The application is deliberately local-first. For a **temporary live demo**, keep the local app running and open a second PowerShell window:
 
 ```powershell
 .\scripts\share_local_demo.ps1
